@@ -1,1 +1,0 @@
-# getNullConcept-site v2
